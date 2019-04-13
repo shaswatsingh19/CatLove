@@ -187,9 +187,10 @@ padding:2% 11%;
 }
 
 #footer-id{
-      margin: -26% -5% -2% -11%;
-padding: 13%;
+  margin: -23% -3% -2% -11%;
+padding: 7% 9%;
     color: #fff;
+    font-size:2.5rem;
 }
 
 #footer{
@@ -198,7 +199,7 @@ padding: 13%;
 }
 
 .footer-icon{
-  margin: 6% 2% 7px;
+  margin: 6% 3% 9px;
   color:black;
 
 

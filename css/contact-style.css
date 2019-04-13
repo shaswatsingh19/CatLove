@@ -1,0 +1,25 @@
+
+.contact-h1{
+  font-size:30px;
+}
+.contact-h2{
+  font-size:20px;
+  color:black;
+}
+.contact-form{
+margin: 0.1px auto;
+}
+.contact-submit{
+  background-color: black;
+  color: white;
+  padding:10px 0px 10px 0px ;
+  margin:10px 0px 0px 0px;;
+  border:none;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 17%;
+  opacity: 1;
+}
+.contact-submit:hover{
+  color:#66bfbf;
+}
