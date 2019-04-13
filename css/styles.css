@@ -3,7 +3,7 @@
   transform: rotate(25deg);
   position:absolute;
   top:30px;
-  right:50%;
+
 
 }
 #features {
@@ -152,4 +152,54 @@ padding:2% 11%;
 
 .pricing-column {
   padding:2% 2%;
+}
+
+/* @media queries */
+
+@media (max-width:767px){
+  #main-img{
+    position:static;
+    transform:rotate(0deg);
+    margin: 4% 20%;
+
+
+  }
+  .title{
+    text-align:center;
+  }
+  .download-btn {
+    padding: 1%;
+  font-size: 92%;
+  margin: 2% 10%;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+
+}
+
+/* footer section */
+
+#cta{
+  background-color:#ff4c68;
+  text-align: center;
+    margin: 0% 0%;
+    padding: 6% 37%;
+}
+
+#footer-id{
+      margin: -26% -5% -2% -11%;
+padding: 13%;
+    color: #fff;
+}
+
+#footer{
+   color: #bdbfc1;
+  text-align:center;
+}
+
+.footer-icon{
+  margin: 6% 2% 7px;
+  color:black;
+
+
 }
